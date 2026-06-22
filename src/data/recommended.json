@@ -1,0 +1,7 @@
+[
+  { "slug": "bim-digital-agent", "reason": "BIM正向设计与碰撞检查，数字化建造必备" },
+  { "slug": "building-regulations-query", "reason": "GB/JGJ标准一键查询，贯穿项目各阶段" },
+  { "slug": "construction-management-agent", "reason": "施工组织设计、进度计划、技术交底全覆盖" },
+  { "slug": "safety-management-agent", "reason": "安全专项方案与检查清单，现场管理刚需" },
+  { "slug": "cost-estimation-agent", "reason": "投资估算到竣工决算，全流程造价辅助" }
+]

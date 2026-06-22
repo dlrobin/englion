@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "content": "用了 deep-research 做竞品调研，一口气跑了 8 个 source，出来的报告直接可以发团队。以前这种事至少要半天，现在 10 分钟搞定。",
+    "author": "张工",
+    "role": "产品经理",
+    "source": "deep-research"
+  },
+  {
+    "id": 2,
+    "content": "continuous-learning-v2 这个 skill 概念很好，但实际用下来感觉触发阈值有点飘，有时候该记的没记，不该记的倒记了一堆。",
+    "author": "李磊",
+    "role": "AI 工程师",
+    "source": "continuous-learning-v2"
+  },
+  {
+    "id": 3,
+    "content": "browser-qa 帮我逮到三个之前手动测漏掉的布局偏移 bug。CI 里加一道这个，比 PR 出来再让人 review 省事多了。",
+    "author": "王敏",
+    "role": "前端开发",
+    "source": "browser-qa"
+  },
+  {
+    "id": 4,
+    "content": "agentic-engineering 的 eval-first 思路是好的，但上手门槛不低。文档更多在讲 why，缺一个从零开始的 walkthrough。",
+    "author": "陈思远",
+    "role": "后端架构师",
+    "source": "agentic-engineering"
+  },
+  {
+    "id": 5,
+    "content": "e2e-testing 的 Page Object 模板直接拿来用了，fixture 组织方式比我自己拼的合理不少。唯一的槽点是样例里缺了 mobile viewport 的配置。",
+    "author": "赵小琳",
+    "role": "测试工程师",
+    "source": "e2e-testing"
+  },
+  {
+    "id": 6,
+    "content": "design-system audit 跑了一轮，token 一致性检查确实有用，但建议加上对 motion duration 的校验，光靠人眼看不出 50ms 的偏差。",
+    "author": "周明",
+    "role": "UI 设计师",
+    "source": "design-system"
+  },
+  {
+    "id": 7,
+    "content": "python-testing fixture 那节把 scope 讲清楚了，之前 conftest 层级一直凭感觉堆，看完重构了一遍，测试快了 30%。",
+    "author": "刘洋",
+    "role": "数据工程师",
+    "source": "python-testing"
+  },
+  {
+    "id": 8,
+    "content": "production-audit 在发布前跑一遍能拦不少低级失误，但报告太长了，能不能出个 executive summary 模式，只列 must-fix？",
+    "author": "何佳",
+    "role": "DevOps 工程师",
+    "source": "production-audit"
+  }
+]
